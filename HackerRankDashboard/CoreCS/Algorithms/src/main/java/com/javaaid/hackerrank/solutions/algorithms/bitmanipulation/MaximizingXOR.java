@@ -8,10 +8,7 @@ package com.javaaid.hackerrank.solutions.algorithms.bitmanipulation;
 
 import java.util.Scanner;
 
-/**
- * @author Kanahaiya Gupta
- *
- */
+
 public class MaximizingXOR {
 	/*
 	 * Complete the function below.
